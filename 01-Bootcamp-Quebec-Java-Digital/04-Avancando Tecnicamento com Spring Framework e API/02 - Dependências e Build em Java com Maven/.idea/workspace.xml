@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeea917d-0a11-4cb7-9cc4-a995e1afed65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../03 - BAnco de Dados PostgreSQL/Exercício Financas/digital_innovation_one-master/ifmoney_criacao_estrutura.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../03 - BAnco de Dados PostgreSQL/Exercício Financas/digital_innovation_one-master/ifmoney_criacao_estrutura.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - Introdução ao Spring Framework/1 - Introdução ao Spring Framework.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - Introdução ao Spring Framework/Aula 1.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - Introdução ao Spring Framework/Aula 2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - Introdução ao Spring Framework/Aula 3.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - Introdução ao Spring Framework/Aula 4.pptx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2HPkB024agfH2huA7ptZ6lQZqUQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/01 - Cursos/02-Cursos-TI-DIO/01 - Bootcamp-Quebec-Java-Digital/04 - Avançando Tecnicamento com Spring Framework e API/02 - Gerenciamento de Dependências e Build em Java com Maven"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeea917d-0a11-4cb7-9cc4-a995e1afed65" name="Changes" comment="" />
+      <created>1668193966538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668193966538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
