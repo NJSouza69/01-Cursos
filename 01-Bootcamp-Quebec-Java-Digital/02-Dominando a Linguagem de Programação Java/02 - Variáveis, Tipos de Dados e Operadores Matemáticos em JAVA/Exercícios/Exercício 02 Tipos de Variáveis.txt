@@ -1,0 +1,42 @@
+import org.w3c.dom.ls.LSOutput;
+
+public class TiposVariaveis {
+
+    byte b1 =10;
+    byte b2 =20;
+
+    short s1 = 20000;
+//    short s2 = 40000;                       // Estoura o limite da variavel declarada
+
+//    int i1 = 10000000000;                   // Estoura o limite da variavel declarada
+    int i2 = 28500;
+
+    long l1 = 1000000000000000000L;
+    long l2 = 2004000000000000000L;
+
+//    float f1 = 4.5;                           // Falta deffinir o tipo de variavel no final
+    float f2 = 10.68F;
+
+    double d1 = 85.69;                           // Opcional deffinir o tipo de variavel no final
+    double d2 = 99.84D;
+
+   char c1 = 'W';
+//   char c2 = 'Tw';                            // Somente um carcter
+   char c3 = '\u0057';                          // Caracter padrão ASCII
+
+    String st1 = "Fulano";
+    String st2 = "Cicrano";
+    String st3 = "Texto descritivo de dados é permitido";
+
+//    String dt1 = "Fulano";
+
+
+    boolean bo1 = true;
+    boolean bo2 = false;
+
+//    System.out.println(b1);
+
+
+
+
+}
