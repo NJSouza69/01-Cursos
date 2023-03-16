@@ -8,11 +8,11 @@ Repositório criado para armazenamento de material referente a cursos realizados
 - Na pasta desejada iniciar o Git Bash
 - Clonar o diretório com o link copiado (git clone https://github.com/NJSouza69/01-DIO.git)
 - Entrar no diretório clonado
-	comandos: 
-		git status 
-		git add . 
-		git commit -m "Mensagem"
-		git push origin main
+--comandos: 
+---git status 
+---git add . 
+---git commit -m "Mensagem"
+---git push origin main
 
 
 ## Links Úteis.
