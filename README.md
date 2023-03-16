@@ -1,5 +1,5 @@
 # 01-Cursos
-Pasta conterá materiais referente aos cursos realizados
+Repositório criado para armazenamento de material referente a cursos realizados
 
 
 ## Links Úteis
