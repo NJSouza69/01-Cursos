@@ -1,0 +1,5 @@
+nome = input("Infome o seu nome: ")
+idade = input("Infome idade: ")
+print(f"Seu nome é {nome}",f"Sua idade é {idade}",sep="/")
+print(f"Seu nome é {nome}",f"Sua idade é {idade}",end="...\n")
+print(float("a"))
