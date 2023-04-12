@@ -15,3 +15,4 @@ print(df.describe())
 filtro1 = df[(df.pl > 0) & (df.mrgebit > 0.5) & (df.dy > 0.09) ]
 papeis = filtro1.sort_values('dy',ascending=False)
 print(papeis)
+print(fundamentus.get_detalhes_papel('PETR4'))

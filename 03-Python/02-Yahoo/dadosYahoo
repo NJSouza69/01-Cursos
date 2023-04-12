@@ -1,0 +1,7 @@
+from pandas_datareader import data as web
+from IPython.display
+import pandas as pd
+import matplotlib.pyplot as plt
+
+cotacao = web.DataReader("^BVSP", data_source="yahoo", start="01/01/2020", end="01/01/2021")
+print(cotacao)
