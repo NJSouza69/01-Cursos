@@ -1,3 +1,7 @@
+
+#https://www.youtube.com/watch?v=fxUyMA1Iowc
+#Video sobre atualização de 2 tabelas
+
 import mysql.connector
 conexao = mysql.connector.connect(
     host='localhost',
