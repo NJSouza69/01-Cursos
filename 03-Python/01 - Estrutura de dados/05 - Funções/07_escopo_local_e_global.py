@@ -1,3 +1,7 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 salario = 2000
 
 
@@ -7,4 +11,5 @@ def salario_bonus(bonus):
     return salario
 
 
-salario_bonus(500)  # 2500
+novoSalario = salario_bonus(500)  # 2500
+print(novoSalario)

@@ -1,3 +1,7 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 def salvar_carro(marca, modelo, ano, placa):
     # salva carro no banco de dados...
     print(f"Carro inserido com sucesso! {marca}/{modelo}/{ano}/{placa}")
