@@ -1,4 +1,9 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 class Cachorro:
+    #__init__ é um método construtor
     def __init__(self, nome, cor, acordado=True):
         print("Inicializando a classe...")
         self.nome = nome
