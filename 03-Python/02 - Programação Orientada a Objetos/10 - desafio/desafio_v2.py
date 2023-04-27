@@ -1,3 +1,7 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 import textwrap
 from abc import ABC, abstractclassmethod, abstractproperty
 from datetime import datetime

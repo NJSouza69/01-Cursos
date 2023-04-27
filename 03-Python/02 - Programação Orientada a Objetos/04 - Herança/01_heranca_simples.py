@@ -1,3 +1,7 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 class Veiculo:
     def __init__(self, cor, placa, numero_rodas):
         self.cor = cor

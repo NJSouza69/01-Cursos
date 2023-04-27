@@ -1,3 +1,7 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 class Pessoa:
     def __init__(self, nome, idade):
         self.nome = nome

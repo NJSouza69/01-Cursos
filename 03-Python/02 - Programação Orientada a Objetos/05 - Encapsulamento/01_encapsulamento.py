@@ -1,3 +1,7 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 class Conta:
     def __init__(self, nro_agencia, saldo=0):
         self._saldo = saldo

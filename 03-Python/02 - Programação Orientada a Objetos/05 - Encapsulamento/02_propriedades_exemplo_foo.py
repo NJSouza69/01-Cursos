@@ -1,3 +1,7 @@
+import os
+# limpa tela do terminal
+os.system('cls')  # ou os.system('cls') no Windows
+
 class Foo:
     def __init__(self, x=None):
         self._x = x
