@@ -3,11 +3,13 @@ import os
 os.system('cls')  # ou os.system('cls') no Windows
 
 class Veiculo:
+    # Características
     def __init__(self, cor, placa, numero_rodas):
         self.cor = cor
         self.placa = placa
         self.numero_rodas = numero_rodas
 
+    # Métodos
     def ligar_motor(self):
         print("Ligando o motor")
 
@@ -35,7 +37,10 @@ class Caminhao(Veiculo):
 moto = Motocicleta("preta", "abc-1234", 2)
 carro = Carro("branco", "xde-0098", 4)
 caminhao = Caminhao("roxo", "gfd-8712", 8, True)
-
+caminhao.esta_carregado()
 print(moto)
+moto.ligar_motor()
 print(carro)
 print(caminhao)
+caminhao = Caminhao("roxo", "gfd-8712", 8, False)
+caminhao.esta_carregado()
